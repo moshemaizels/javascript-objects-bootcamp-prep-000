@@ -3,6 +3,6 @@ var playlist = {greenDay: "American Idiot",
  theBeatles: "All You Needs is Love"};
 
 function updatePlaylist(playlist, artist, song) {
-  playlist.artist = song
+  playlist[artist] = song
   return playlist
 }
