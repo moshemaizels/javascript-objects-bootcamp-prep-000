@@ -3,5 +3,5 @@ var playlist = {GreenDay: "American Idiot",
  TheBeatles: "All You Needs is Love"};
 
 function updatePlaylist(playlist, artist, song) {
-  
+
 }
