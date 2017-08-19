@@ -1,5 +1,7 @@
-var playlist = {Green Day: "American Idiot",
- The Mountain Goats: "Amy aka Spent Gladiator",
- The Beatles: "All You Needs is Love"};
+var playlist = {GreenDay: "American Idiot",
+ TheMountainGoats: "Amy aka Spent Gladiator",
+ TheBeatles: "All You Needs is Love"};
 
-
+function updatePlaylist(playlist, artist, song) {
+  
+}
